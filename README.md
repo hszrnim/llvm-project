@@ -118,5 +118,5 @@ to learn about the layout of the source code tree.
 
 Join [LLVM Discourse forums](https://discourse.llvm.org/), [discord chat](https://discord.gg/xS7Z362) or #llvm IRC channel on [OFTC](https://oftc.net/).
 
-The LLVM project has adopted a [code of conduct](https://llvm.org/docs/CodeOfConduct.html) for
-participants to all modes of communication within the project.
+The LLVM project has adopted a [code of conduct](https://llvm.org/docs/CodeOfConduct.html)  for
+participants to all modes of communication within the project. 
